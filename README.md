@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CCristinaCalin
-- 👀 I’m interested in Data Science/ Health & Well-being/ Literature
+- 👀 I’m interested in Data Science/Finance/Health & Well-being/Literature
 - 🌱 I’m currently studying MSc Business Analytics
 
 
